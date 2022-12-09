@@ -23,7 +23,7 @@
     "cookie-parser": "1.4.3",
     "crypto-js": "3.1.9-1",
     "dotenv": "6.0.0",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "express-formidable": "1.0.0",
     "jsonwebtoken": "8.3.0",
     "moment": "2.22.2",
